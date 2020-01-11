@@ -4,8 +4,5 @@
 <h2><b><i> This is typed by Mark </h2>
 <h2><b><i> To test the deployment from GIT to Jenkins to Ansible host </h2>
 <p>
-Things are not working fine
-last change
-final change Mark
-one final change
+Lord will surely help, wait Mark!
 </p>
